@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Bayzid Hossen
 #### Web Developer
 
+Skills: HTML / CSS / JS / NODE JS / REACT
+
 ## A passionate Front-End Developer from Rajshahi, Bangladesh!
 
-Skills: HTML / CSS / JS / NODE JS / REACT
+
 
 - 🌱 I’m currently learning Programming Hero 
 - 👯 I’m looking to collaborate on github 
