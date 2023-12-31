@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Bayzid Hossen
 #### Web Developer
-![Web Developer](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/397997503_1025867315287100_2818965842490115445_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeEV6xD8uQxYBOo_-OvPn0leSKBYJrulJQtIoFgmu6UlC2j_N23_nlExCBv3ppwc5kCu0kJnsd79tFsHhC1GzylP&_nc_ohc=le-5Z0MJ9wEAX_UBChK&_nc_ht=scontent.fdac27-2.fna&oh=00_AfCAjEhu0s9Fr30rW9qgOSG1KdZ1u7n2BBqV7X21uvFuAg&oe=65962AD7)
 
-A passionate Front-End Developer from Rajshahi, Bangladesh!
+## A passionate Front-End Developer from Rajshahi, Bangladesh!
 
 Skills: HTML / CSS / JS / NODE JS / REACT
 
@@ -18,3 +17,4 @@ Skills: HTML / CSS / JS / NODE JS / REACT
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bayzidhossen123)  
 
 
+![Web Developer](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/397997503_1025867315287100_2818965842490115445_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeEV6xD8uQxYBOo_-OvPn0leSKBYJrulJQtIoFgmu6UlC2j_N23_nlExCBv3ppwc5kCu0kJnsd79tFsHhC1GzylP&_nc_ohc=le-5Z0MJ9wEAX_UBChK&_nc_ht=scontent.fdac27-2.fna&oh=00_AfCAjEhu0s9Fr30rW9qgOSG1KdZ1u7n2BBqV7X21uvFuAg&oe=65962AD7)
